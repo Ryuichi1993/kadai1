@@ -58,30 +58,18 @@ main{
 }
 @media screen and (max-width:768px) {
   main {
-    width:90%;
+    width:100%;
     margin:50px auto;
 }
 .step-box{
   margin-top: 20px;
   float:none;
-  width:90%;
+  width:100%;
 }
 .step-box{
-  width:90%;
-}
-.step-img1{
-  width:90%;
-}
-.step-img2{
-  width:90%;
-}
-.step-img3{
-  width:90%;
-}
-.step-num{
-  width:15%;
+  width:100%;
 }
 .title{
-  width:90%;
+  width:100%;
 }
 }
